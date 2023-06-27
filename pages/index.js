@@ -1,5 +1,10 @@
 function Home() {
-    return <h1>beibe beibe do biruleibe leibe?</h1>
+    return (
+        <div>
+            <h1>baby baby do baby do biruleibe leibe?</h1>
+            <img src="/images/image.PNG" alt="diogo" />
+        </div>
+    );
 }
 
 export default Home;
